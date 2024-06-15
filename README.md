@@ -10,4 +10,11 @@ The program does the following:
 ![image](https://github.com/3a7/UdemyCoursesBot/assets/58238467/6d19886a-32b9-48d2-be61-572d238258bd)
 > Telegram Bot
 
+![image](https://github.com/3a7/UdemyCoursesBot/assets/58238467/1c62345d-6d6d-441f-bd75-ea2a7d9e58c6)
+> Output from the bot owner view
+
+## How to use
+- The program is made in a way that allows it always to run and keep up-to-date with all new courses, That's why it's better to run it on a server.
+- The program will scrape the latest courses every hour
+
 
