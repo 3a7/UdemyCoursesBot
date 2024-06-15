@@ -7,7 +7,7 @@ The program does the following:
 3. Sends the courses to whoever requests them on the Telegram bot (using /send_courses)
 
 ### Pictures of the program
-![image](https://github.com/3a7/UdemyCoursesBot/assets/58238467/5eb28dce-ea99-4530-8b0d-77e18925f287)
-- Telegram Bot
+![image](https://github.com/3a7/UdemyCoursesBot/assets/58238467/6d19886a-32b9-48d2-be61-572d238258bd)
+> Telegram Bot
 
 
