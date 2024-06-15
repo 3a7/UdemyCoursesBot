@@ -14,7 +14,7 @@ The program does the following:
 > Output from the bot owner view
 
 ## How to use
-- The program is made in a way that allows it always to run and keep up-to-date with all new courses, That's why it's better to run it on a server.
+- The program is made in a way that allows it to always to run and keep up-to-date with all new courses, That's why it's better to run it on a server.
 - The program will scrape the latest courses every hour
 
 
